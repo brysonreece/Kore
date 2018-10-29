@@ -1,15 +1,12 @@
 Kore - Easy. Extendable.
 ====================
 
-<hr>
 What is Kore?
 ---------------------
-<hr>
+
 Kore is open-source hand tool, designed to provide individuals with poor motor control ways to interact with the world around them. With extend-ability in mind, Kore can easily be adapted to perform all kinds of functions! 
 
-<hr>
 ### Features
-<hr>
 
 * Strap anchors to ensure you don't lose grip of your Kore
 * Interchangeable tooltips
@@ -17,17 +14,14 @@ Kore is open-source hand tool, designed to provide individuals with poor motor c
 * Easy assembly
 * And it's Open Source!
 
-<hr>
 ### Assembly
-<hr>
 
 Kore comes with six different pieces at first, held together by two common household screws. Simply slide the Kore base inside the grip, attach a Strap Disk to each end, place the Kore Cap on one end and fasten it with a screw, then do the same on the opposite side for the Tool Guard with another screw.
 
 Voila! Your done! Now print off an included tooltip, or design your own, and get interacting!
 
-<hr>
 ### Wait. What are "Tooltips"?
-<hr>
+
 Kore utilizes what we like to call "tooltips." Simply snap a Kore-compatible tooltip into the end of Kore and get interacting!
 
 ### What tooltips are already available?
@@ -46,10 +40,9 @@ Uploaded so far:
 
 Want to design your own? Check out the "Kore_Tooltip_Base" file and get started!
 
-<hr>
 Contributing
 ---------------------
-<hr>
+
 Kore is designed from the ground up to allow collaborative creation and innovation, and already there's a need for it. With your help, we can continue to design new and innovative tooltips to extend Kore's functionality beyond what's imaginable.
 
 Better with lists? Here a TODO:
